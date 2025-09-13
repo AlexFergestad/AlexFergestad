@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![XCTest](https://img.shields.io/badge/-XCTest-2C2C2C?style=flat-square&logo=apple&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) 
+![Behave](https://img.shields.io/badge/-Behave-009688?style=flat-square&logo=python&logoColor=white) 
+![Antioch](https://img.shields.io/badge/-Antioch-5A0FC8?style=flat-square&logo=flask&logoColor=white)
 
 ## ⚙️ **CI/CD & DevOps**
 
@@ -31,7 +34,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ## 🤝 **Collaboration & Project Management**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Testpad](https://img.shields.io/badge/-Testpad-3E8E41?style=flat-square&logo=checkmarx&logoColor=white)
 
 ## 🚀 Projects  
 - [Weather Predictor]
