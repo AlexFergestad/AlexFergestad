@@ -36,6 +36,10 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Testpad](https://img.shields.io/badge/-Testpad-3E8E41?style=flat-square&logo=checkmarx&logoColor=white)
 
+## 🧰 **Other Tools**
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
+
 ## 🚀 Projects  
 - [Weather Predictor]
 
