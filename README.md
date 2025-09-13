@@ -18,6 +18,23 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![XCTest](https://img.shields.io/badge/-XCTest-2C2C2C?style=flat-square&logo=apple&logoColor=white)
 
+## ⚙️ **CI/CD & DevOps**
+
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=jetbrains&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+
+## ☁️ **Cloud & Backend**
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+
+## 🤝 **Collaboration & Project Management**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jir
+
 ## 📫 **Let's Connect!**
 
 <a href="https://www.linkedin.com/in/alex-fergestad">
