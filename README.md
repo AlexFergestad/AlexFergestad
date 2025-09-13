@@ -40,5 +40,6 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 <a href="https://www.linkedin.com/in/alex-fergestad">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
 </a>
-
-[Email](mailto:ajfergestad@comcast.net)  
+<a href="mailto:ajfergestad@comcast.net">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
+</a>
