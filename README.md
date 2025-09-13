@@ -9,4 +9,5 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![HTML5](https://shields.io/badge/-HTML5-E34F24?style=flat-square&logo=html5&logoColor=white)
 
 ## 📫 **Let's Connect!**
-[LinkedIn](https://www.linkedin.com/in/alex-fergestad)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/alex-fergestad)
+
