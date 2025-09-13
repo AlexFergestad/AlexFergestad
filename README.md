@@ -30,8 +30,15 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
 
+### 🚀 Projects  
+- [Weather Predictor]Flask app that uses ARIMA for weather prediction.
+
+### 🌱 Currently learning: Python fundamentals and leetcode grinding  
+### 💡 Exploring: Python Project Based Learning 
+
 ## 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/alex-fergestad">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
 </a>
 
+[Email](mailto:ajfergestad@comcast.net)  
