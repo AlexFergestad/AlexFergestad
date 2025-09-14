@@ -51,5 +51,5 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
 </a>
 <a href="https://leetcode.com/u/aw3someal3x/">
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="LeetCode" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
 </a>
