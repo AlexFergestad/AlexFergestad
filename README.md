@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
 
 ## 🚀 Projects  
-- [Weather Predictor]
+- Coming soon! Projects need Readmes in order to be showcased!
 
 ## 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/alex-fergestad">
