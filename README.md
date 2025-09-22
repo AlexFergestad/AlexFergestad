@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) 
 ![Behave](https://img.shields.io/badge/-Behave-009688?style=flat-square&logo=python&logoColor=white) 
 ![Antioch](https://img.shields.io/badge/-Antioch-5A0FC8?style=flat-square&logo=flask&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ## ⚙️ **CI/CD & DevOps**
 
