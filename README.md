@@ -4,8 +4,8 @@
 
 Welcome to my GitHub profile! I'm a software qa engineer with a love for creating user-friendly and customer-centeric applications. I enjoy working on both the frontend and backend part of testing and building technologies, and I'm always eager to learn and explore new tools and frameworks.
 
-### 🌱 Currently Learning: Hiring Manager email finder and leetcode grinding with Python  
-### 💡 Exploring: Python Project Based Learning 
+### 🌱 Currently Learning: Playwright and leetcode grinding with Python  
+### 💡 Exploring: Playwright with Pytest Python Test Automation Framework 
 
 ## 🖥️ **Languages**
 
