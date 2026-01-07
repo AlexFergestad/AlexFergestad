@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
 
 ## 🚀 Projects  
-- Coming soon! Projects need Readmes in order to be showcased!
+- Automated Testing Of Hudl's Main Website
+- Old Republic Professional Main Website Testing (Currently Working on...)
 
 ## 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/alex-fergestad">
