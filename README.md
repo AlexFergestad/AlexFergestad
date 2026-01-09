@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
 
 ## 🚀 Projects  
-- Software Quality All You Need To Know Repository
+- Software Quality All You Need To Know Repository (Currently in Progress)
 - Automated Testing Of Hudl's Main Website
 - Automated Testing of 3Step Sports Main Website with Manual Test Cases
 - Old Republic Professional Main Website Testing (Currently Working on...)
