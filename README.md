@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ## 🚀 Projects  
 - Automated Testing Of Hudl's Main Website
+- Automated Testing of 3Step Sports Main Website with Manual Test Cases
 - Old Republic Professional Main Website Testing (Currently Working on...)
 
 ## 📫 **Let's Connect!**
