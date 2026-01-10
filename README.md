@@ -1,4 +1,4 @@
-# Hello! I'm Alex :wave:
+# Hello! I'm Alex! :wave:
 
 :rocket: **Software QA Engineer / Python & Java Developer** | 🌎 **Based in Chicago, Illinois** | 💡 **Passionate about the user experience and solving problems**
 
