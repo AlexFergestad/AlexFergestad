@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 - Software Quality All You Need To Know Repository (Currently Working On...)
 - Manual/Automated Testing Of Hudl's Main Website
 - Automated Testing of 3Step Sports Main Website with Manual Test Cases
-- Old Republic Professional Main Website Testing (Currently Working on...)
+- Old Republic Professional Main Website Testing (Currently Working On...)
 
 ## 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/alex-fergestad">
