@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ## 🧪 **Testing Frameworks**
 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![XCTest](https://img.shields.io/badge/-XCTest-2C2C2C?style=flat-square&logo=apple&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) 
