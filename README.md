@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ## 🔧 **Automation Libraries**
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=microsoft&logoColor=white)
 
 ## 🧪 **Testing Frameworks**
 
