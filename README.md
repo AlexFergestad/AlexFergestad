@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ## ⚙️ **CI/CD & DevOps**
 
-![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=jetbrains&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=jetbrains&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
 
 ## ☁️ **Cloud**
 
