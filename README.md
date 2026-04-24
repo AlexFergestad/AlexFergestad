@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ### 🌱 Currently Learning: Playwright with Python and Appium with TestNG (Java), Manual/Automated Testing at Old Republic Professional
 ### 💡 Goals: 
-##      - Master UI, API, Web, Mobile Testing with different frameworks and coding languages for each. 
+##      - Master UI, API, Web, Mobile Testing with different frameworks and coding languages for  each. 
 ##      - Become an excellent communicator and mentor for others joining the industry.
 ##      - Set an example that quality is important in all stages of the sdlc.
 
