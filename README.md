@@ -5,7 +5,10 @@
 Welcome to my GitHub profile! I'm a software qa engineer with a love for creating user-friendly and customer-centeric applications. I enjoy working on both the frontend and backend part of testing and building technology. I'm always eager to learn and explore new tools and frameworks. I hope to one day be an SDET!
 
 ### 🌱 Currently Learning: Playwright with Python and Appium with TestNG (Java), Manual/Automated Testing at Old Republic Professional
-### 💡 Goals: Master UI, API, Web, Mobile Testing with different frameworks and coding languages for each. Become an excellent communicator and mentor for others joining the industry. Set an example that quality is important in all stages of the sdlc.
+### 💡 Goals: 
+##      - Master UI, API, Web, Mobile Testing with different frameworks and coding languages for each. 
+##      - Become an excellent communicator and mentor for others joining the industry.
+##      - Set an example that quality is important in all stages of the sdlc.
 
 ## 🖥️ **Languages**
 
