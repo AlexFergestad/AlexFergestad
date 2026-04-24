@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ### 💡 Goals: 
         - Master Manual, UI, API, Web, & Mobile Testing with different frameworks and coding languages for each.
 
+        - Obtain deep expertise in nonfunctional testing such as performance, load, and reliability.
+
         - Master the testing pyramid. How each type of test plays a role in ensuring a quality software delivery. Ex: Unit, Integration, Component, End-To-End, etc.
 
         - Become an excellent communicator and mentor for others joining the industry.
