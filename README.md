@@ -60,9 +60,10 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 - Automated Testing of 3Step Sports Main Website translated from Manual Test Cases
 - Old Republic Professional Main Website Testing (Currently Working On...)
 
-## Trophies
+## Stats
 
-[![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
+![Your Stats](https://vercel.app)
+
 
 
 ## 📫 **Let's Connect!**
