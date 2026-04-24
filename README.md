@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ### 💡 Goals: 
 ##      - Master UI, API, Web, Mobile Testing with different frameworks and coding languages for  each. 
 ##      - Become an excellent communicator and mentor for others joining the industry.
-##      - Set an example that quality is important in all stages of the sdlc.
+##      - Be the advocate that convinces others that quality is important in all stages of the sdlc.
 
 ## 🖥️ **Languages**
 
