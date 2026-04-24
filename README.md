@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/AlexFergestad=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexFergestad)](https://git.io/streak-stats)
 
 
 
