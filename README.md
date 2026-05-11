@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a love for creatin
 ## 🚀 Projects  
 - Software Quality All You Need To Know Information Repository (Currently Working On...)
 - Manual/Automated Testing Of Hudl's Main Website
-- Automated Testing of 3Step Sports Main Website translated from Manual Test Cases
+- Automated Testing of 3Step Sports Main Website translated from Manual Test Cases in Cypress
 - Old Republic Professional Main Website Testing (Currently Working On...)
 
 ## Stats
