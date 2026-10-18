@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a software qa engineer with a passion for improving, testing, and creating user-friendly and customer-centric applications. I enjoy working on both the frontend and backend part of testing and building technology. I'm always eager to learn and explore new tools and frameworks. I hope to one day be a Sofware Development Engineer in Test!
 
-### 🌱 **Currently Learning:** Playwright with Pytest and Appium with TestNG (Java), Manual/Automated Testing at Old Republic Professional
+### 🌱 **Currently Learning:** Playwright with Pytest, Manual/Automated Testing at Old Republic Professional
 ### 💡 Goals: 
         - Master Manual, UI, API, Web, and Mobile Testing with different frameworks and coding languages for each.
 
