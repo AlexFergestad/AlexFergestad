@@ -68,10 +68,6 @@ Welcome to my GitHub profile! I'm a software qa engineer with a passion for impr
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFergestad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=py,java,ts,selenium,azure,git)
-
 ## 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/alex-fergestad">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
