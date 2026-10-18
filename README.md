@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a passion for impr
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexFergestad&theme=radical&hide_border=true&short_numbers=true&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexFergestad&theme=radical&hide_border=true&short_numbers=true&card_width=500&v=2)](https://git.io/streak-stats)
 
 
 
