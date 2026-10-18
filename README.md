@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a passion for impr
 ### 💡 Goals: 
         - Master Manual, UI, API, Web, and Mobile Testing with different frameworks and coding languages for each.
 
-        - Obtain deep expertise in nonfunctional testing such as performance, load, and reliability.
+        - Obtain deep expertise in nonfunctional testing such as performance, security, load, and reliability.
 
         - Master the testing pyramid. How each type of test plays a role in ensuring a quality software delivery. Ex: Unit, Integration, Component, End-To-End, etc.
 
