@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a software qa engineer with a passion for impr
 
 ## ⚙️ **CI/CD & DevOps**
 
-![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=jetbrains&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-FF0000?style=flat-square&logo=jenkins&logoColor=white)
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=jetbrains&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-FF0000?style=flat-square&logo=jenkins&logoColor=white)![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-FF0000?style=flat-square&logo=jenkins&logoColor=white)
 
 ## ☁️ **Cloud**
 
