@@ -65,11 +65,8 @@ Welcome to my GitHub profile! I'm a software qa engineer with a passion for impr
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexFergestad&theme=radical&hide_border=true&short_numbers=true&card_width=500&v=4)](https://git.io/streak-stats)
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFergestad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFergestad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexFergestad&theme=react-dark&hide_border=true)
 
 ## Tech Stack
 
